@@ -4,10 +4,10 @@
 // @description Remove the Twitter Blue and Verified Organizations buttons from everywhere
 // @version 1.0.2
 // @namespace https://twitter.com/Biast12
-// @supportURL https://github.com/biast12/Remove-Twitter-Blue-and-Verified-Organizations-buttons
-// @updateURL https://github.com/biast12/Remove-Twitter-Blue-and-Verified-Organizations-buttons
+// @supportURL https://github.com/biast12/Remove-Twitter-Blue-and-Verified-Organizations-buttons/issues
+// @updateURL https://github.com/biast12/Remove-Twitter-Blue-and-Verified-Organizations-buttons/raw/main/RemoveTwitterBlueandVerifiedOrganizationsbuttons.user.js
+// @downloadURL https://github.com/biast12/Remove-Twitter-Blue-and-Verified-Organizations-buttons/raw/main/RemoveTwitterBlueandVerifiedOrganizationsbuttons.user.js
 // @contributionURL https://www.paypal.com/donate/?hosted_button_id=RWB2QFK7CKUM2
-// @license CC-BY-SA 4.0
 // @grant GM_addStyle
 // @run-at document-start
 // @include https://twitter.com/*
