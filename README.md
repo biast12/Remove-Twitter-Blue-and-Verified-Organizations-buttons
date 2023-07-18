@@ -8,7 +8,7 @@
     - Microsoft Edge: [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) or [Violentmonkey](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao)
     - Opera: [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) or [Violentmonkey](https://addons.opera.com/extensions/details/violent-monkey/)
 
-1. Install The Script **<a href="https://greasyfork.org/en/scripts/464592-remove-twitter-blue-and-verified-organizations-buttons" target="_blank">from greasyfork</a> or <a href="https://downgit.evecalm.com/#/home?url=https%3A%2F%2Fgithub.com%2Fbiast12%2FRemove-Twitter-Blue-and-Verified-Organizations-buttons%2Fblob%2Fmain%2FRemoveTwitterBlueandVerifiedOrganizationsbuttons.txt" target="_blank">from this Github</a>**
+1. Install The Script **<a href="https://github.com/biast12/Remove-Twitter-Blue-and-Verified-Organizations-buttons/raw/main/RemoveTwitterBlueandVerifiedOrganizationsbuttons.user.js" target="_blank">from this Github</a> or <a href="https://greasyfork.org/en/scripts/464592-remove-twitter-blue-and-verified-organizations-buttons" target="_blank">from greasyfork</a>**
 
    
 If you have issues or just need help open an [issue here](https://github.com/biast12/Remove-Twitter-Blue-and-Verified-Organizations-buttons/issues) or DM me on [Twitter](https://twitter.com/Biast12)
